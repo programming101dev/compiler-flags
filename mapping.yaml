@@ -1,0 +1,114 @@
+Options Controlling C Dialect: dialect-c
+Options Controlling C++ Dialect: dialect-cxx
+Options Controlling Objective-C and Objective-C++ Dialects: dialect-objective-c
+Options Controlling OpenMP and OpenACC: openmp-openacc
+Options Controlling the Kind of Output: output
+Options Controlling the Preprocessor: preprocessor
+Options That Control Optimization: optimization
+Options That Control Static Analysis: static-analysis
+Options for Code Generation Conventions: code-generation
+Options for Debugging Your Program: debug
+Options for Directory Search: directories
+Options for Linking: linking
+Options to Control Diagnostic Messages Formatting: diagnostics
+Options to Request or Suppress Warnings: warnings
+Program Instrumentation Options: instrumentation
+Actions: actions
+Compilation options: general
+Debug information options: debug
+Debug level: debug
+Debugger to tune debug information for: debug
+Dependency file generation: dependancy-file
+Diagnostic options: diagnostic
+Dumping preprocessor state: preprocessor
+Fortran compilation options: fortran
+Include path management: directories
+Introduction: general
+Kind and level of debug information: debug
+Linker options: linking
+Long double options: long-double
+Optimization level: optimization
+Preprocessor options: preprocessor
+Static analyzer options: static-analysis
+clang-dxc options: dxc
+GCC Developer Options: developer
+Passing Options to the Assembler: assembler
+Common Offloading options: acceleration
+CUDA options: acceleration-cuda
+OpenCL options: acceleration-opencl
+SYCL options: acceleration-svlc
+HIP options: acceleration-hip
+HLSL options: acceleration-hlsl
+RX Options (Using the GNU Compiler Collection (GCC)): target-rx
+GNU/Linux Options (Using the GNU Compiler Collection (GCC)): target-gnu-linux
+H8/300 Options (Using the GNU Compiler Collection (GCC)): target-h8-300
+HPPA Options (Using the GNU Compiler Collection (GCC)): target-hppa
+IA-64 Options (Using the GNU Compiler Collection (GCC)): target-ia64
+LM32 Options (Using the GNU Compiler Collection (GCC)): target-lm32
+LoongArch Options (Using the GNU Compiler Collection (GCC)): target-loong-arch
+M32C Options (Using the GNU Compiler Collection (GCC)): target-m32c
+M32R/D Options (Using the GNU Compiler Collection (GCC)): target-m32r-d
+M680x0 Options (Using the GNU Compiler Collection (GCC)): target-m680x0
+MCore Options (Using the GNU Compiler Collection (GCC)): target-mcore
+MIPS Options (Using the GNU Compiler Collection (GCC)): target-mips
+MMIX Options (Using the GNU Compiler Collection (GCC)): target-mmix
+MN10300 Options (Using the GNU Compiler Collection (GCC)): target-mn10300
+MSP430 Options (Using the GNU Compiler Collection (GCC)): target-msp430
+MicroBlaze Options (Using the GNU Compiler Collection (GCC)): target-microblaze
+Moxie Options (Using the GNU Compiler Collection (GCC)): target-moxie
+NDS32 Options (Using the GNU Compiler Collection (GCC)): target-nds32
+Nvidia PTX Options (Using the GNU Compiler Collection (GCC)): target-nvidia-ptx
+OpenRISC Options (Using the GNU Compiler Collection (GCC)): target-open-risc
+PDP-11 Options (Using the GNU Compiler Collection (GCC)): target-pdp-11
+PRU Options (Using the GNU Compiler Collection (GCC)): target-pru
+RISC-V Options (Using the GNU Compiler Collection (GCC)): target-riscv
+RL78 Options (Using the GNU Compiler Collection (GCC)): target-rl78
+RS/6000 and PowerPC Options (Using the GNU Compiler Collection (GCC)): target-powerpc
+S/390 and zSeries Options (Using the GNU Compiler Collection (GCC)): target-s-390
+SH Options (Using the GNU Compiler Collection (GCC)): target-sh
+SPARC Options (Using the GNU Compiler Collection (GCC)): target-sparc
+Solaris 2 Options (Using the GNU Compiler Collection (GCC)): target-solaris-2
+Specifying Subprocesses and the Switches to Pass to Them: subprocess
+System V Options (Using the GNU Compiler Collection (GCC)): target-system-v
+V850 Options (Using the GNU Compiler Collection (GCC)): target-v850
+VAX Options (Using the GNU Compiler Collection (GCC)): target-vax
+VMS Options (Using the GNU Compiler Collection (GCC)): target-vms
+Visium Options (Using the GNU Compiler Collection (GCC)): target-visium
+VxWorks Options (Using the GNU Compiler Collection (GCC)): target-vx-works
+Xstormy16 Options (Using the GNU Compiler Collection (GCC)): target-xstormy16
+Xtensa Options (Using the GNU Compiler Collection (GCC)): target-xtensa
+eBPF Options (Using the GNU Compiler Collection (GCC)): target-ebpf
+x86 Options (Using the GNU Compiler Collection (GCC)): target-x86
+AARCH64: target-aarch64
+AMDGPU: target-amdgpu
+ARM: target-arm
+LoongArch: target-loong-arch
+M68k: target-m68k
+MIPS: target-mips
+PowerPC: target-powerpc
+RISC-V: target-risc-v
+SPARC: target-sparc
+Target-dependent compilation options: target-dependant
+Target-independent compilation options: target-dependant
+VE: target-ve
+WebAssembly: target-web-assembly
+WebAssembly Driver: target-web-assembly
+X86: target-x86
+X86 AVX10: target-x86-avx10
+AArch64 Options (Using the GNU Compiler Collection (GCC)): target-aarch64
+AMD GCN Options (Using the GNU Compiler Collection (GCC)): target-amd-gcn
+ARC Options (Using the GNU Compiler Collection (GCC)): target-arc
+ARM Options (Using the GNU Compiler Collection (GCC)): target-arm
+AVR Options (Using the GNU Compiler Collection (GCC)): target-avr
+Adapteva Epiphany Options (Using the GNU Compiler Collection (GCC)): target-adapteva-epiphany
+Blackfin Options (Using the GNU Compiler Collection (GCC)): target-blackfin
+C-SKY Options (Using the GNU Compiler Collection (GCC)): target-c-sky
+C6X Options (Using the GNU Compiler Collection (GCC)): target-c6x
+CRIS Options (Using the GNU Compiler Collection (GCC)): target-cris
+Cygwin and MinGW Options (Using the GNU Compiler Collection (GCC)): target-cygwin-mingw
+DEC Alpha Options (Using the GNU Compiler Collection (GCC)): target-dec-alpha
+Darwin Options (Using the GNU Compiler Collection (GCC)): target-darwin
+FR30 Options (Using the GNU Compiler Collection (GCC)): target-fr30
+FRV Options (Using the GNU Compiler Collection (GCC)): target-frv
+FT32 Options (Using the GNU Compiler Collection (GCC)): target-ft32
+Hexagon: target-hexagon
